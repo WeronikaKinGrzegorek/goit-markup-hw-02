@@ -124,11 +124,13 @@ body {
     letter-spacing: 0.03em;
     color: var(--text-color-white);
     background-color: var(--background-color-dark);
+    font-style: normal;
 }
 .address-links {
     color: rgba(255, 255, 255, 0.6);
     background-color: var(--background-color-dark);
     text-decoration: none;
+    font-style: normal;
 }
 .email {
     text-decoration-line: underline;
